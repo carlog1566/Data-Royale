@@ -30,8 +30,9 @@ A machine-learning project developed for the CPP Data Royale Datathon. Our goal 
 ### 7️⃣ Have Fun! 🎉
 
 ## CSV Links 🗂️
-Link to Full Dataset: https://drive.google.com/file/d/1sgMvwiuZNyBt86JD3FRVZa5YRi6DpbBj/view?usp=drive_link
+Full Dataset: [Download here](https://drive.google.com/file/d/1sgMvwiuZNyBt86JD3FRVZa5YRi6DpbBj/view?usp=drive_link)
 
-Link to 500k Sample Dataset: https://drive.google.com/file/d/12eZqqFVio8xpFQzY6awr3c-ddhrOrRMB/view?usp=sharing 
+500k Sample Dataset: [Download here](https://drive.google.com/file/d/12eZqqFVio8xpFQzY6awr3c-ddhrOrRMB/view?usp=sharing)
+
 
 
